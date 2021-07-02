@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulares {
+    font-size: 24px ;
+    }
+.precios {
+        font-size: 18px;
+        display: flex;
+        width: 30%;
+    }
+.descuentos {
+        font-size: 16px ;
+        color: #39b54a;
+        display: flex;
+        width: 70%;
+    }
+.descripciones {
+        font-size: 16px ;
+        margin: 0.9rem 0;
+        color: #666;
+        font-weight: 500;
+    }
+.cuerpos {
+        font-size: 12px ;
+    }
